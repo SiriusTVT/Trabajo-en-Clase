@@ -6,6 +6,9 @@
 ## Autor
 **Juan David Troncoso**
 
+## Repositorio GitHub
+**Link del Repositorio:** https://github.com/SiriusTVT/Trabajo-en-Clase/tree/main
+
 ---
 
 ## 1. Descripción General
