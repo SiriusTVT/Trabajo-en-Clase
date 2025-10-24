@@ -1,0 +1,14 @@
+# Archivos compilados
+*.exe
+*.o
+*.out
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Directorios
+.vscode/
+.idea/
+bin/
+obj/
