@@ -288,18 +288,4 @@ Se han completado satisfactoriamente todas las actividades propuestas con los si
 4. **Buenas Prácticas:** Código limpio, bien documentado y sin memory leaks
 5. **Control de Versiones:** Proyecto correctamente configurado en Git
 
-El proyecto está listo para ser entregado a través de GitHub con toda la documentación necesaria.
-
----
-
-## 9. Recomendaciones para Futuro
-
-- Implementar manejadores de errores y validaciones
-- Expandir con estructuras de datos dinámicas (listas, árboles)
-- Agregar pruebas unitarias
-- Documentar en Doxygen
-- Implementar patrones de diseño
-
----
-
 **Fin del Informe**
