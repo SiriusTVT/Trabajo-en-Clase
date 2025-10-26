@@ -1,7 +1,7 @@
 # Informe de Implementación - Trabajo en Clase
 
 ## Fecha de Entrega
-**24 de octubre de 2025**
+**27 de octubre de 2025**
 
 ## Autor
 **Juan David Troncoso**
